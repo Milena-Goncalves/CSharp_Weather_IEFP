@@ -4,6 +4,12 @@ using Newtonsoft.Json;
 
 //Testes
 
+//Alterei
+
+//Vejam está linha
+
+//Nova linha
+
 var client = new HttpClient();
 var request = new HttpRequestMessage
 {
@@ -15,6 +21,9 @@ var request = new HttpRequestMessage
         { "X-RapidAPI-Host", "covid-193.p.rapidapi.com" },
     },
 };
+
+// Olá, sou a Débora e eu consegui alterar.
+// Fazendo outro teste.
 
 using (var response = await client.SendAsync(request))
 {
