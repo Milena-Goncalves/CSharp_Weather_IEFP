@@ -1,0 +1,17 @@
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/bin/Debug/net6.0/CorreçãoFicha1
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/bin/Debug/net6.0/CorreçãoFicha1.deps.json
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/bin/Debug/net6.0/CorreçãoFicha1.runtimeconfig.json
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/bin/Debug/net6.0/CorreçãoFicha1.dll
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/bin/Debug/net6.0/CorreçãoFicha1.pdb
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.csproj.AssemblyReference.cache
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.AssemblyInfoInputs.cache
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.AssemblyInfo.cs
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.csproj.CoreCompileInputs.cache
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.dll
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/refint/CorreçãoFicha1.dll
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.pdb
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.genruntimeconfig.cache
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/ref/CorreçãoFicha1.dll
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/Debug/net6.0/CorreçãoFicha1.csproj.CopyComplete
