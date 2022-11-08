@@ -2,6 +2,7 @@
 
 using Newtonsoft.Json;
 
+//Testes
 
 var client = new HttpClient();
 var request = new HttpRequestMessage
@@ -25,8 +26,7 @@ using (var response = await client.SendAsync(request))
     //População
     Console.WriteLine($"População: {json["response"][0]["population"]} habitantes.");
 
-
     //Total casos
-    Console.WriteLine($"Casos: {json["response"][0]["cases"]["total"]}.");
+    Console.WriteLine($"Total casos de covid: {json["response"][0]["cases"]["total"]}.");
 
 }
