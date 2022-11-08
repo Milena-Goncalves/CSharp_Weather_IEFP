@@ -6,6 +6,7 @@ using Newtonsoft.Json;
 
 //Alterei
 
+//Vejam está linha
 var client = new HttpClient();
 var request = new HttpRequestMessage
 {
