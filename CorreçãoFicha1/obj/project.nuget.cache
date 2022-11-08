@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h66PZ93Fu28I4XB/pfcpo97WFDk1LByOVHpklbusqrjMccbp2YyVJQKTo6mg+JHDp0ARK3m+HRkCj/RdX5zlpg==",
+  "dgSpecHash": "7sU7/4bK6lodnwGAFIjQuc5F5bk50izVEjLbWH9R7Mrnt0P3QNLpQC+ICN2ciMU8pGKaRx8+WKCF93k7ZQdaxw==",
   "success": true,
-  "projectFilePath": "/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/CorreçãoFicha1.csproj",
+  "projectFilePath": "/Users/joaomonge/Projects/CSharp_Weather_IEFP/CorreçãoFicha1/CorreçãoFicha1.csproj",
   "expectedPackageFiles": [
     "/Users/joaomonge/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],

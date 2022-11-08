@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/CorreçãoFicha1.csproj",
+      "projectUniqueName": "/Users/joaomonge/Projects/CSharp_Weather_IEFP/CorreçãoFicha1/CorreçãoFicha1.csproj",
       "projectName": "CorreçãoFicha1",
-      "projectPath": "/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/CorreçãoFicha1.csproj",
+      "projectPath": "/Users/joaomonge/Projects/CSharp_Weather_IEFP/CorreçãoFicha1/CorreçãoFicha1.csproj",
       "packagesPath": "/Users/joaomonge/.nuget/packages/",
-      "outputPath": "/Users/joaomonge/Projects/CorreçãoFicha1/CorreçãoFicha1/obj/",
+      "outputPath": "/Users/joaomonge/Projects/CSharp_Weather_IEFP/CorreçãoFicha1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joaomonge/.nuget/NuGet/NuGet.Config"
